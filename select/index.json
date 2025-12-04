@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Keep it real",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-04T09:11:24.847162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "Tanita Tikaram",
+      "has_synced": false,
+      "path": "select/01_Keep_It_Real_Tanita_Tikaram.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep It Real - (Interlude)",
+      "artist": "112",
+      "has_synced": false,
+      "path": "select/02_Keep_It_Real_-_(Interlude)_112.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "Redman feat. Weasel Loc",
+      "has_synced": false,
+      "path": "select/03_Keep_It_Real_Redman_feat._Weasel_Loc.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "15-Keep It Real (Weasal Loc Featuring Redman)",
+      "artist": "Redman",
+      "has_synced": false,
+      "path": "select/04_15-Keep_It_Real_(Weasal_Loc_Featuring_Redman)_Redman.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "French Montana feat. Harry Fraud & EST Gee",
+      "has_synced": true,
+      "path": "select/05_Keep_It_Real_French_Montana_feat._Harry_Fraud_&_EST_Gee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "French Montana",
+      "has_synced": true,
+      "path": "select/06_Keep_It_Real_French_Montana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "French Montana & Harry Fraud feat. EST Gee",
+      "has_synced": false,
+      "path": "select/07_Keep_It_Real_French_Montana_&_Harry_Fraud_feat._EST_Gee.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "Jonas Brothers",
+      "has_synced": true,
+      "path": "select/08_Keep_It_Real_Jonas_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "KYLE",
+      "has_synced": true,
+      "path": "select/09_Keep_It_Real_KYLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "French Montana, Harry Fraud & EST Gee",
+      "has_synced": true,
+      "path": "select/10_Keep_It_Real_French_Montana,_Harry_Fraud_&_EST_Gee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keep It Real with You",
+      "artist": "Eyedress feat. Elvia & DāM-FunK",
+      "has_synced": true,
+      "path": "select/11_Keep_It_Real_with_You_Eyedress_feat._Elvia_&_DāM-FunK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Keep It Real with You",
+      "artist": "Eyedress",
+      "has_synced": true,
+      "path": "select/12_Keep_It_Real_with_You_Eyedress.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keep It Real (feat. Lonr.)",
+      "artist": "Tone Stith feat. Lonr.",
+      "has_synced": false,
+      "path": "select/13_Keep_It_Real_(feat._Lonr.)_Tone_Stith_feat._Lonr..txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Keep It Real (feat. Lonr.)",
+      "artist": "Tone Stith",
+      "has_synced": false,
+      "path": "select/14_Keep_It_Real_(feat._Lonr.)_Tone_Stith.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "Plants and Animals",
+      "has_synced": false,
+      "path": "select/15_Keep_It_Real_Plants_and_Animals.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Keep It Real",
+      "artist": "Bonez MC feat. Jalil",
+      "has_synced": true,
+      "path": "select/16_Keep_It_Real_Bonez_MC_feat._Jalil.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Keep It Real (Feat. Jalil)",
+      "artist": "Bonez Mc",
+      "has_synced": true,
+      "path": "select/17_Keep_It_Real_(Feat._Jalil)_Bonez_Mc.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Keep It Real with You (feat. Elvia & Dam-Funk)",
+      "artist": "Eyedress feat. Elvia & DāM-FunK",
+      "has_synced": true,
+      "path": "select/18_Keep_It_Real_with_You_(feat._Elvia_&_Dam-Funk)_Eyedress_feat._Elvia_&_DāM-FunK.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Keep It Real with You (feat. Elvia & Dam-Funk)",
+      "artist": "Eyedress",
+      "has_synced": true,
+      "path": "select/19_Keep_It_Real_with_You_(feat._Elvia_&_Dam-Funk)_Eyedress.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keep it real",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_Keep_it_real_棗いつき.txt"
+    }
+  ]
+}
